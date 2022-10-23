@@ -1,0 +1,13 @@
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\bin\Debug\Tp-winforms-LiclaCisneros.exe.config
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\bin\Debug\Tp-winforms-LiclaCisneros.exe
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\bin\Debug\Tp-winforms-LiclaCisneros.pdb
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\bin\Debug\FontAwesome.Sharp.dll
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp-winforms-LiclaCisneros.csproj.AssemblyReference.cache
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp_winforms_LiclaCisneros.General.resources
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp_winforms_LiclaCisneros.Articulo.resources
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp_winforms_LiclaCisneros.Properties.Resources.resources
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp-winforms-LiclaCisneros.csproj.GenerateResource.cache
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp-winforms-LiclaCisneros.csproj.CoreCompileInputs.cache
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp-winforms-LiclaCisneros.csproj.CopyComplete
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp-winforms-LiclaCisneros.exe
+C:\proyectos\programacion III 2022\tpWinforms\Tp-winforms-LiclaCisneros\Tp-winforms-LiclaCisneros\obj\Debug\Tp-winforms-LiclaCisneros.pdb
